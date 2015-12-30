@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>athento-nx-initial-version</groupId>
 	<artifactId>athento-nx-initial-version</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<name>Athento Nx Initial Version</name>
 	<description>Athento Nx Initial Version</description>
 	<dependencyManagement>
@@ -14,7 +14,7 @@
 				<artifactId>nuxeo-distribution</artifactId>
 				<scope>import</scope>
 				<type>pom</type>
-				<version>5.8</version>
+				<version>6.0</version>
 			</dependency>
 		</dependencies>
 

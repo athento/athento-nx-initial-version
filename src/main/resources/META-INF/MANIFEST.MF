@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Require-Bundle: org.nuxeo.runtime
 Bundle-Vendor: Athento
-Bundle-Version: 1.0
+Bundle-Version: 1.1
 Bundle-Name: Athento NX Initial Version
 Nuxeo-Component: OSGI-INF/Content-model/Versioning/versioning-contrib.xml
 Bundle-ManifestVersion: 2
